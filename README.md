@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tracing-your-sweet-outline/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tracing Your Sweet Outline](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-your-sweet-outline/) |
+| **Get License** | [Commercial Licensing for Tracing Your Sweet Outline](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tracing-your-sweet-outline/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8d3c940e137d48394a738c1d9e46beeca5f0c2fc20efef88580e015ea5057129` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
